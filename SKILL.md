@@ -4,7 +4,7 @@ description: Redirect harmful self-focus toward meaning, tasks, or others. Vikto
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3814
+  version: 1.0.3815
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - dereflection-technique
